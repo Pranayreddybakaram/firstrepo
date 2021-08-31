@@ -1,3 +1,3 @@
 # firstrepo
-My first repository
+My first repository.
 I am Pranay Bhargav Reddy Bakaram
